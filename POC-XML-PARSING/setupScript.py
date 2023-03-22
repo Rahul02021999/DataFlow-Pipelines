@@ -1,4 +1,5 @@
 # setup.py
+# This setup.py will install the require packages when the pipeline runs using DataFlowRunner
 import setuptools
 REQUIRED_PACKAGES = ['xmltodict', 'google-cloud-storage']
 PACKAGE_NAME = 'XmlScript'
